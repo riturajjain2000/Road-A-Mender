@@ -12,6 +12,9 @@
 ![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square) 
 ![Maintenance](https://img.shields.io/maintenance/yes/2021)
 
+<img align="center" src="https://github.com/riturajjain2000/Road-A-Mender/blob/main/ss/ss.png">
+<br>
+
 ## 🛠 Tech Used
 
 <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
