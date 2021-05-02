@@ -1,6 +1,6 @@
 # Road-A-Mender
 
-# App to detect potholes📰🔥.
+## App to detect potholes📰🔥.
 
 
 ![GitHub forks](https://img.shields.io/github/forks/CSwala/CSwala-website) 
