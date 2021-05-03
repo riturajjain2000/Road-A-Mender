@@ -12,7 +12,7 @@
 ![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square) 
 ![Maintenance](https://img.shields.io/maintenance/yes/2021)
 
-<img align="center" src="https://github.com/riturajjain2000/Road-A-Mender/blob/main/ss/ss.jpg">
+<img align="center" src="https://github.com/riturajjain2000/Road-A-Mender/blob/master/ss/ss.jpg">
 <br>
 
 ## 🛠 Tech Used
